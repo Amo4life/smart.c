@@ -1,0 +1,243 @@
+.page-info{
+
+padding-top: 50px;
+display: flex;
+flex-direction: row;
+align-items: center;
+margin-bottom: 50px;
+}
+
+.whole-info{
+  margin-bottom: 100px;
+  padding-left: 80px;
+padding-right: 80px;
+}
+
+.s-info{
+  display: flex;
+flex-direction: row;
+  font-family: roboto;
+  font-size: 50px;
+  font-weight: bold;
+justify-content: start;
+align-items: end;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.t-info{
+  display: flex;
+flex-direction: row;
+  justify-content: end;
+  flex: 1;
+}
+
+.Home-info,
+.News-info,
+.Popular-info,
+.Trending-info,
+.Categories-info{
+  font-family: arial;
+  background-color: white;
+  border: none;
+  color: black;
+  text-decoration: none;
+  padding-left: 50px;
+  
+}
+
+.image-info{
+
+
+}
+
+.text-info{
+height: 650px;
+  background-color: rgb(1, 1, 20);
+}
+
+.new-info{
+
+  font-family: arial;
+  font-size: 40px;
+  color: rgb(156, 134, 7);
+  font-weight: bold;
+  padding-left: 15px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.inner-info{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.para-info{
+  font-family: arial;
+  font-size: 19px;
+  color: white;
+  width: 360px;
+  margin-right: 0px;
+  line-height: 30px;
+  
+}
+.img-info{
+  width: 750px;
+  height: 430px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.second-info{
+display: grid;
+grid-template-columns: 2fr 1fr;
+margin-top: 30px;
+}
+
+
+
+.bright-info{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.web-info{
+  width: 380px;
+  font-family: arial;
+  font-size: 50px;
+  font-weight: bold;
+  padding-right: 0px;
+  height: 167px;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.lorem-info{
+  width: 370px;
+  padding-left: 5px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.last-info{
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 70px;
+  margin-left: 0px;
+}
+
+.lasto-info{
+
+}
+
+.l-info{
+  display: inline-block;
+  width: 110px;
+  height: 150px;
+}
+
+.inten-info{
+display: inline-block;
+width: 230px;
+padding-left: 20px;
+}
+
+.pi-info{
+  font-family: arial;
+  font-size: 57px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.pp-info{
+  font-family: arial;
+  width: 330px;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 25px;
+}
+
+
+.p-info{
+  font-family: arial;
+  display: inline-block;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 30px;
+}
+
+
+.lastos-info,
+.lastoss-info,
+.lastost-info{
+  display: inline-block;
+padding-left: 0px;
+margin-left: 0px;
+}
+
+.lastoss-info{
+  width: 365px;
+  padding-left: 5px;
+}
+
+.lastost-info{
+  width: 390px;
+}
+
+.lastos-info{
+  width: 380px;
+}
+.ten-info{
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  font-size: 35px;
+  color: rgb(153, 152, 152);
+  font-family: arial;
+}
+
+.button-info{
+  background-color: red;
+  color: white;
+  margin-top: 45px;
+  width: 190px;
+  height: 40px;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 15px;
+  border: none;
+}
+
+.ps-info{
+  font-family: arial;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 0px;
+  margin-top: 0px;
+
+}
+
+.h-info{
+
+  font-family: arial;
+  color: white;
+  font-size: 25px;
+  width: 350px;
+  padding-top: 25px;
+}
+
+.pps-info{
+  width: px;
+}
+
+.a{
+  padding-left: ;
+}
